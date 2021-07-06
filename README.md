@@ -1,5 +1,5 @@
 # Weather-Bot
-一个利用GitHub Actions自动发送天气到邮箱的Bot.
+一个利用GitHub Actions自动发送天气到邮箱的Bot.333
 
 注：index2.js是另外一个邮件模板（调用的和风天气），index.html是一个网页版天气插件
 
